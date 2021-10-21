@@ -1,4 +1,4 @@
-# Classic Todo App
+# Lol App
 
 ## Features:
     1. Users can login and signup with their email ids.
